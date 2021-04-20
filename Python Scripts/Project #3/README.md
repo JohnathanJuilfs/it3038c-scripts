@@ -1,0 +1,2 @@
+Hello, in order to run these programs you will have to ensure that you have  Python 3.9.4 installed and updated on your computer. Next, ensure that you have the following libraries downlaoded and imported correctly: Requests, BeautifulSoup, bs4, and webbrowser. The next step will be to either open the programs directly and they will launch in Python, or open them up in Python. The final step is to run the program and follow along with the prompt so you can run the code successfully without any errors, thank you!
+(Internet access is required to use the Webscraper.)
